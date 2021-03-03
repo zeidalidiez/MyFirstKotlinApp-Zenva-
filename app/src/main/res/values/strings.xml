@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstKotlinApp</string>
+    <string name="submitButtonText">Submit</string>
+    <string name="colorInputHintText">What is your favorite color?</string>
+</resources>
